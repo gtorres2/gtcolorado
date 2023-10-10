@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gtorres (Geovanna)
-- 👀 I’m interested in learning and starting a new career.
-- 🌱 I’m currently learning Italian and Portuguese
-- 💞️ I’m looking to collaborate with this cohort
+- 👋 Hi, I’m Geovanna.
+- 👀 I’m interested in learning and starting a new career in Data Science.
+- 🌱 I’m currently learning to code.
+- 💞️ I’m looking to collaborating with the NSS DS7 cohort.
 - 📫 How to reach me gtcolorado@me.com
 
 <!---
